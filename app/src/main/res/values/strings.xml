@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDoListAndroid</string>
+
+    <string name="todoList">To Do List</string>
+    <string name="action_settings">Settings</string>
+</resources>

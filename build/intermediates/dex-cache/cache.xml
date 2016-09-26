@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/pre-dexed/debug/classes-d745112544277990fd3e910a11b24b4af8582243.jar" />
+    </item>
+    <item
+        jar="/Users/vsuryawanshi/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2-029e2eb90445e2bc79c44ae66b89946005992df6.jar" />
+    </item>
+    <item
+        jar="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/pre-dexed/debug/classes-3006c4f1c560d30289cb7aa8da9bd29e20a91793.jar" />
+    </item>
+    <item
+        jar="/Users/vsuryawanshi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-2239329ccf267431b265d815a21af67ab62e9858.jar" />
+    </item>
+    <item
+        jar="/Users/vsuryawanshi/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.2-2d259abba4788f1a90afe60a92627828bbe0c69d.jar" />
+    </item>
+    <item
+        jar="/Users/vsuryawanshi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-e4bae818619af921ddc6218dce95fd88335d77d0.jar" />
+    </item>
+    <item
+        jar="/Users/vsuryawanshi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-2d699187332b398591e5f945e729935f4c2e9ffe.jar" />
+    </item>
+    <item
+        jar="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-28a01860402726bd794742f7c74e9a9759726365.jar" />
+    </item>
+    <item
+        jar="/Users/vsuryawanshi/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12-d8aaf97bfffebff6802b83a417dcc48613c74a96.jar" />
+    </item>
+    <item
+        jar="/Users/vsuryawanshi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/vsuryawanshi/androidWorkspace/toDoListAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-850ef6666bd694a6c84f343ff840e29ffd37556a.jar" />
+    </item>
+
+</items>
